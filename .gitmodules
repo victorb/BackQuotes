@@ -4,3 +4,6 @@
 [submodule "BackQueue"]
 	path = BackQueue
 	url = git@git.bjelkholm.com:VictorBjelkholm/backqueue.git
+[submodule "BackScraper"]
+	path = BackScraper
+	url = git@git.bjelkholm.com:VictorBjelkholm/backscraper.git
