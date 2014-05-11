@@ -13,3 +13,6 @@
 [submodule "BackWeb"]
 	path = BackWeb
 	url = git@git.bjelkholm.com:VictorBjelkholm/backweb.git
+[submodule "BackWorker"]
+	path = BackWorker
+	url = git@git.bjelkholm.com:VictorBjelkholm/backworker.git
