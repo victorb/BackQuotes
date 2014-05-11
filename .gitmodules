@@ -1,3 +1,6 @@
+[submodule "BackData"]
+	path = BackData
+	url = git@git.bjelkholm.com:VictorBjelkholm/backdata.git
 [submodule "BackMail"]
 	path = BackMail
 	url = git@git.bjelkholm.com:VictorBjelkholm/backmail.git
