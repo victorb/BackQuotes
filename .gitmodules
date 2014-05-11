@@ -7,3 +7,6 @@
 [submodule "BackScraper"]
 	path = BackScraper
 	url = git@git.bjelkholm.com:VictorBjelkholm/backscraper.git
+[submodule "BackUser"]
+	path = BackUser
+	url = git@git.bjelkholm.com:VictorBjelkholm/backuser.git
